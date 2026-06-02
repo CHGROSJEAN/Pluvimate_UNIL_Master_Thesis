@@ -1,0 +1,30 @@
+# ALIGNED OVERLAP DATA - METADATA
+# Station: RIPR
+# Overlap Period: 20230110_20230110
+# Generated: 2026-06-02 21:30:27
+# Source File 1: RIPR_20230327_txt_overlap_20230110_20230110.csv
+# Source File 2: RIPR_20230110_txt_overlap_20230110_20230110.csv
+# Alignment Method: tolerance (±1.5 min)
+# Number of Aligned Points: 12
+# Mean Difference (Precip1 - Precip2): 0.0
+# RMSE (Root Mean Square Error): 0.0
+# MAE (Mean Absolute Error): 0.0
+# Correlation: nan
+# Max Difference: 0.0
+# Min Difference: 0.0
+# Cross-Correlation Best Lag: -0.55 hours
+# Cross-Correlation Max Value: 0.000
+#
+DateTime,Precip_SourceFile1,Precip_SourceFile2
+2023-01-10 15:03:22,0.0,0.0
+2023-01-10 15:06:22,0.0,0.0
+2023-01-10 15:09:22,0.0,0.0
+2023-01-10 15:12:22,0.0,0.0
+2023-01-10 15:15:22,0.0,0.0
+2023-01-10 15:18:22,0.0,0.0
+2023-01-10 15:21:22,0.0,0.0
+2023-01-10 15:24:22,0.0,0.0
+2023-01-10 15:27:22,0.0,0.0
+2023-01-10 15:30:22,0.0,0.0
+2023-01-10 15:33:22,0.0,0.0
+2023-01-10 15:36:22,0.0,0.0

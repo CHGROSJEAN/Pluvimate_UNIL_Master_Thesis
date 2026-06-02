@@ -209,7 +209,11 @@ def colorize_comment_keywords(file_path):
     - "Overlap: " in blue
     - "Cross-correlation MeteoSwiss:" in red
     """
-    wb = load_workbook(file_path, rich_text=True)
+    try:
+        wb = load_workbook(file_path, rich_text=True)
+    except TypeError:
+        # Older openpyxl versions do not support the rich_text argument.
+        wb = load_workbook(file_path)
     ws = wb.active
     
     # Find comments columns (case-insensitive)

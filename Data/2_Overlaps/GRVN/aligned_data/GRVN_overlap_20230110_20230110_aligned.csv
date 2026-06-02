@@ -1,0 +1,33 @@
+# ALIGNED OVERLAP DATA - METADATA
+# Station: GRVN
+# Overlap Period: 20230110_20230110
+# Generated: 2026-06-02 21:30:25
+# Source File 1: GRVN_20230110_txt_overlap_20230110_20230110.csv
+# Source File 2: GRVN_20230327_txt_overlap_20230110_20230110.csv
+# Alignment Method: tolerance (±1.5 min)
+# Number of Aligned Points: 15
+# Mean Difference (Precip1 - Precip2): 0.0
+# RMSE (Root Mean Square Error): 0.0
+# MAE (Mean Absolute Error): 0.0
+# Correlation: nan
+# Max Difference: 0.0
+# Min Difference: 0.0
+# Cross-Correlation Best Lag: -0.70 hours
+# Cross-Correlation Max Value: 0.000
+#
+DateTime,Precip_SourceFile1,Precip_SourceFile2
+2023-01-10 15:24:54,0.0,0.0
+2023-01-10 15:27:54,0.0,0.0
+2023-01-10 15:30:54,0.0,0.0
+2023-01-10 15:33:54,0.0,0.0
+2023-01-10 15:36:54,0.0,0.0
+2023-01-10 15:39:54,0.0,0.0
+2023-01-10 15:42:54,0.0,0.0
+2023-01-10 15:45:54,0.0,0.0
+2023-01-10 15:48:54,0.0,0.0
+2023-01-10 15:51:54,0.0,0.0
+2023-01-10 15:54:54,0.0,0.0
+2023-01-10 15:57:54,0.0,0.0
+2023-01-10 16:00:54,0.0,0.0
+2023-01-10 16:03:54,0.0,0.0
+2023-01-10 16:06:54,0.0,0.0

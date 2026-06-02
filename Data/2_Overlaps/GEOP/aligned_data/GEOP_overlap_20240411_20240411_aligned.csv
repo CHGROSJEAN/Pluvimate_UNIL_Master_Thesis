@@ -1,0 +1,18 @@
+# ALIGNED OVERLAP DATA - METADATA
+# Station: GEOP
+# Overlap Period: 20240411_20240411
+# Generated: 2026-06-02 21:30:01
+# Source File 1: GEOP_20240411_xlsx_overlap_20240411_20240411.csv
+# Source File 2: GEOP_20241111_txt_overlap_20240411_20240411.csv
+# Alignment Method: tolerance (±1.5 min)
+# Number of Aligned Points: 2
+# Mean Difference (Precip1 - Precip2): 0.0
+# RMSE (Root Mean Square Error): 0.0
+# MAE (Mean Absolute Error): 0.0
+# Correlation: nan
+# Max Difference: 0.0
+# Min Difference: 0.0
+#
+DateTime,Precip_SourceFile1,Precip_SourceFile2
+2024-04-11 08:36:00,0.0,0.0
+2024-04-11 08:39:00,0.0,0.0

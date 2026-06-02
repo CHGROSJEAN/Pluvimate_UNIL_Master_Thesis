@@ -1,0 +1,28 @@
+# ALIGNED OVERLAP DATA - METADATA
+# Station: LEXP
+# Overlap Period: 20231017_20231017
+# Generated: 2026-06-02 21:30:26
+# Source File 1: LEXP_20231214_txt_overlap_20231017_20231017.csv
+# Source File 2: LEXP_20231017_txt_overlap_20231017_20231017.csv
+# Alignment Method: tolerance (±1.5 min)
+# Number of Aligned Points: 10
+# Mean Difference (Precip1 - Precip2): 0.0
+# RMSE (Root Mean Square Error): 0.0
+# MAE (Mean Absolute Error): 0.0
+# Correlation: nan
+# Max Difference: 0.0
+# Min Difference: 0.0
+# Cross-Correlation Best Lag: -0.45 hours
+# Cross-Correlation Max Value: 0.000
+#
+DateTime,Precip_SourceFile1,Precip_SourceFile2
+2023-10-17 08:33:12,0.0,0.0
+2023-10-17 08:36:12,0.0,0.0
+2023-10-17 08:39:12,0.0,0.0
+2023-10-17 08:42:12,0.0,0.0
+2023-10-17 08:45:12,0.0,0.0
+2023-10-17 08:48:12,0.0,0.0
+2023-10-17 08:51:12,0.0,0.0
+2023-10-17 08:54:12,0.0,0.0
+2023-10-17 08:57:12,0.0,0.0
+2023-10-17 09:00:12,0.0,0.0
