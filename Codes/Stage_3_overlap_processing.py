@@ -258,7 +258,7 @@ if __name__ == "__main__":
 # Configuration
 BASE_OVERLAP_DIR = OVERLAPS_DIRECTORY
 PLOT_FILENAME_SUFFIX = "_overlap_plot.png"
-MODE = "single"  # Set to "single" or "all"
+MODE = "all"  # Set to "single" or "all"
 
 # Optional high-quality static zoom export for report figures.
 # Set GENERATE_REPORT_ZOOM to True and choose the time window to export.
