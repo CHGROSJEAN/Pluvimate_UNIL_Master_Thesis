@@ -4,3 +4,8 @@ __pycache__/
 .venv/
 venv/
 ~$*
+
+# Very large generated outputs
+Data/4_Grids/**/*.parquet
+Data/4_Grids/4.2_Precipitation/station_precip_long.csv
+Data/4_Grids/4.2_Precipitation/precipitation_heatmap_3min.html
