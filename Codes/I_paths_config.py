@@ -15,10 +15,7 @@ from pathlib import Path
 
 # ===== BASE DIRECTORIES =====
 # Main data directory - base path for all pipeline data
-DATA_DIRECTORY = Path(
-    "/Users/charlottegrosjean/Library/Mobile Documents/com~apple~CloudDocs/2UNIL/Master/"
-    "Master thesis/3_Data"
-)
+DATA_DIRECTORY = Path(__file__).resolve().parent.parent / "Data"
 
 # ===== INPUT DIRECTORIES (Raw & Processed Station Data) =====
 # Raw station data (CSV, TXT, XLSX files)
