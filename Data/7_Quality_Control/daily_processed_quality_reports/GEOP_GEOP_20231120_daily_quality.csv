@@ -1,0 +1,22 @@
+Date,Daily status,Daily reason,Daily valid points,Daily station rain mm,Daily MeteoSwiss rain mm,Daily correlation,Daily bias
+2023-10-31,PASS,OK,264,4.4,5.0887,0.8071,-0.1353
+2023-11-01,FAIL,bias 0.485 outside +/-0.3 and total diff 0.630 > 0.5,480,1.93,1.3,0.8078,0.4846
+2023-11-02,PASS,OK,480,24.03,30.7627,0.8282,-0.2189
+2023-11-03,FAIL,bias -0.434 outside +/-0.3 and total diff 3.577 > 0.5,480,4.66,8.2373,0.6373,-0.4343
+2023-11-04,PASS,OK,480,24.45,25.0,0.9223,-0.022
+2023-11-05,PASS,OK,480,13.06,12.0,0.7495,0.0883
+2023-11-06,PASS,OK,480,0.82,0.8,0.6082,0.025
+2023-11-07,FAIL,corr 0.117 < 0.4,480,0.59,0.1,0.1168,4.9
+2023-11-08,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-11-09,FAIL,bias -0.363 outside +/-0.3 and total diff 2.093 > 0.5,480,3.67,5.7627,0.7344,-0.3631
+2023-11-10,PASS,OK,480,11.63,11.876,0.867,-0.0207
+2023-11-11,FAIL,bias -0.375 outside +/-0.3 and total diff 1.861 > 0.5,480,3.1,4.9613,0.8701,-0.3752
+2023-11-12,PASS,OK,480,11.66,13.2,0.6878,-0.1167
+2023-11-13,PASS,OK,480,10.88,13.1,0.8432,-0.1695
+2023-11-14,PASS,OK,480,33.73,47.5,0.8634,-0.2899
+2023-11-15,FAIL,corr N/A < 0.4; bias N/A outside +/-0.3 and total diff 1.200 > 0.5,480,1.2,0.0,,
+2023-11-16,PASS,dry day totals close: diff 0.160 <= 0.2,480,0.14,0.3,,
+2023-11-17,FAIL,corr 0.005 < 0.4; bias -0.871 outside +/-0.3 and total diff 0.610 > 0.5,480,0.09,0.7,0.0048,-0.8714
+2023-11-18,PASS,dry day totals close: diff 0.080 <= 0.2,480,0.02,0.1,,
+2023-11-19,PASS,OK,480,1.77,2.4,0.7132,-0.2625
+2023-11-20,PASS,dry day totals close: diff 0.030 <= 0.2,168,0.03,0.0,,

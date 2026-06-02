@@ -1,0 +1,30 @@
+Date,Daily status,Daily reason,Daily valid points,Daily station rain mm,Daily MeteoSwiss rain mm,Daily correlation,Daily bias
+2022-10-28,PASS,dry day totals close: diff 0.000 <= 0.2,283,0.0,0.0,,
+2022-10-29,PASS,dry day totals close: diff 0.030 <= 0.2,288,0.03,0.0,,
+2022-10-30,PASS,dry day totals close: diff 0.020 <= 0.2,288,0.02,0.0,,
+2022-10-31,PASS,dry day totals close: diff 0.180 <= 0.2,288,0.09,0.27,,
+2022-11-01,PASS,OK,288,3.73,5.01,0.8629,-0.2555
+2022-11-02,PASS,dry day totals close: diff 0.000 <= 0.2,288,0.0,0.0,,
+2022-11-03,PASS,OK,288,15.53,15.09,0.8433,0.0292
+2022-11-04,FAIL,bias -0.390 outside +/-0.3 and total diff 1.230 > 0.5,288,1.92,3.15,0.6562,-0.3905
+2022-11-05,PASS,dry day totals close: diff 0.000 <= 0.2,288,0.42,0.42,,
+2022-11-06,PASS,dry day totals close: diff 0.020 <= 0.2,288,0.04,0.06,,
+2022-11-07,PASS,dry day totals close: diff 0.030 <= 0.2,288,0.03,0.0,,
+2022-11-08,PASS,dry day totals close: diff 0.010 <= 0.2,288,0.01,0.0,,
+2022-11-09,PASS,OK,288,13.82,14.88,0.7638,-0.0712
+2022-11-10,PASS,dry day totals close: diff 0.000 <= 0.2,288,0.0,0.0,,
+2022-11-11,PASS,dry day totals close: diff 0.020 <= 0.2,288,0.02,0.0,,
+2022-11-12,PASS,dry day totals close: diff 0.020 <= 0.2,288,0.02,0.0,,
+2022-11-13,PASS,dry day totals close: diff 0.000 <= 0.2,288,0.0,0.0,,
+2022-11-14,FAIL,corr -0.031 < 0.4; bias 18.083 outside +/-0.3 and total diff 10.850 > 0.5,288,11.45,0.6,-0.0307,18.0833
+2022-11-15,PASS,OK,288,6.21,7.26,0.9091,-0.1446
+2022-11-16,PASS,OK,288,3.73,3.06,0.9449,0.219
+2022-11-17,PASS,OK,288,5.27,4.29,0.678,0.2284
+2022-11-18,FAIL,corr 0.331 < 0.4; bias 1.157 outside +/-0.3 and total diff 0.590 > 0.5,288,1.1,0.51,0.3307,1.1569
+2022-11-19,FAIL,corr N/A < 0.4; bias N/A outside +/-0.3 and total diff 1.730 > 0.5,288,1.73,0.0,,
+2022-11-20,PASS,dry day totals close: diff 0.140 <= 0.2,288,0.14,0.0,,
+2022-11-21,PASS,OK,288,5.44,6.36,0.9172,-0.1447
+2022-11-22,FAIL,bias -0.381 outside +/-0.3 and total diff 2.010 > 0.5,288,3.27,5.28,0.6063,-0.3807
+2022-11-23,FAIL,bias 0.336 outside +/-0.3 and total diff 1.270 > 0.5,288,5.05,3.78,0.8175,0.336
+2022-11-24,PASS,dry day totals close: diff 0.030 <= 0.2,288,0.03,0.0,,
+2022-11-25,PASS,dry day totals close: diff 0.060 <= 0.2,124,0.3,0.36,,

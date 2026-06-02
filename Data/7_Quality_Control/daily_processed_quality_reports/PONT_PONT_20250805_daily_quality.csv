@@ -1,0 +1,56 @@
+Date,Daily status,Daily reason,Daily valid points,Daily station rain mm,Daily MeteoSwiss rain mm,Daily correlation,Daily bias
+2025-06-12,PASS,dry day totals close: diff 0.000 <= 0.2,344,0.0,0.0,,
+2025-06-13,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-14,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-15,PASS,dry day totals close: diff 0.130 <= 0.2,480,0.13,0.0,,
+2025-06-16,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-17,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-18,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-19,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-20,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-21,PASS,OK,480,21.72,23.7,0.8525,-0.0835
+2025-06-22,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-23,PASS,OK,480,1.2,0.9,0.7738,0.3333
+2025-06-24,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-25,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-26,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-27,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-28,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-29,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-06-30,PASS,OK,480,12.54,10.4,0.8538,0.2058
+2025-07-01,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-02,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-03,PASS,dry day totals close: diff 0.050 <= 0.2,480,0.05,0.1,,
+2025-07-04,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-05,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-06,FAIL,bias 0.488 outside +/-0.3 and total diff 0.643 > 0.5,480,1.96,1.3175,0.7766,0.4877
+2025-07-07,FAIL,bias 0.366 outside +/-0.3 and total diff 1.995 > 0.5,480,7.45,5.455,0.7833,0.3657
+2025-07-08,FAIL,bias 0.990 outside +/-0.3 and total diff 1.513 > 0.5,480,3.04,1.5275,0.7619,0.9902
+2025-07-09,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-10,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-11,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-12,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-13,FAIL,bias 0.547 outside +/-0.3 and total diff 3.447 > 0.5,480,9.75,6.3025,0.7445,0.547
+2025-07-14,FAIL,bias 0.462 outside +/-0.3 and total diff 6.003 > 0.5,480,19.0,12.9975,0.7911,0.4618
+2025-07-15,PASS,OK,480,1.06,0.6,0.6003,0.7667
+2025-07-16,PASS,dry day totals close: diff 0.050 <= 0.2,480,0.05,0.0,,
+2025-07-17,PASS,OK,480,0.53,0.4,0.8289,0.325
+2025-07-18,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-19,FAIL,bias 0.667 outside +/-0.3 and total diff 2.800 > 0.5,480,7.0,4.2,0.9294,0.6667
+2025-07-20,PASS,OK,480,23.72,18.365,0.8711,0.2916
+2025-07-21,PASS,OK,480,3.33,4.435,0.671,-0.2492
+2025-07-22,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-23,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-24,PASS,OK,480,7.12,5.9,0.7689,0.2068
+2025-07-25,PASS,dry day totals close: diff 0.070 <= 0.2,480,0.03,0.1,,
+2025-07-26,FAIL,bias -0.491 outside +/-0.3 and total diff 3.730 > 0.5,480,3.87,7.6,0.8406,-0.4908
+2025-07-27,PASS,OK,480,30.98,25.0175,0.8272,0.2383
+2025-07-28,FAIL,bias 0.437 outside +/-0.3 and total diff 0.647 > 0.5,480,2.13,1.4825,0.9156,0.4368
+2025-07-29,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-30,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-07-31,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-08-01,PASS,dry day totals close: diff 0.070 <= 0.2,480,0.07,0.0,,
+2025-08-02,FAIL,bias 0.640 outside +/-0.3 and total diff 3.520 > 0.5,480,9.02,5.5,0.759,0.64
+2025-08-03,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-08-04,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2025-08-05,PASS,dry day totals close: diff 0.000 <= 0.2,121,0.0,0.0,,

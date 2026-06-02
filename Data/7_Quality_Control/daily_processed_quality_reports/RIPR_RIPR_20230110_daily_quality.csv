@@ -1,0 +1,36 @@
+Date,Daily status,Daily reason,Daily valid points,Daily station rain mm,Daily MeteoSwiss rain mm,Daily correlation,Daily bias
+2022-12-07,PASS,dry day totals close: diff 0.000 <= 0.2,317,0.0,0.0,,
+2022-12-08,FAIL,corr -0.032 < 0.4; bias -0.972 outside +/-0.3 and total diff 2.406 > 0.5,480,0.07,2.4765,-0.0319,-0.9717
+2022-12-09,FAIL,corr -0.428 < 0.4; bias -0.361 outside +/-0.3 and total diff 6.390 > 0.5,480,11.31,17.7,-0.4281,-0.361
+2022-12-10,FAIL,bias 1.087 outside +/-0.3 and total diff 3.287 > 0.5,480,6.31,3.0235,0.4514,1.087
+2022-12-11,FAIL,corr N/A < 0.4; bias N/A outside +/-0.3 and total diff 0.580 > 0.5,480,0.58,0.0,,
+2022-12-12,FAIL,corr N/A < 0.4; bias N/A outside +/-0.3 and total diff 0.870 > 0.5,480,0.87,0.0,,
+2022-12-13,FAIL,corr N/A < 0.4; bias -1.000 outside +/-0.3 and total diff 1.500 > 0.5,480,0.0,1.5,,-1.0
+2022-12-14,FAIL,bias 1.066 outside +/-0.3 and total diff 3.730 > 0.5,480,7.23,3.5,0.6462,1.0657
+2022-12-15,PASS,OK,480,10.53,13.6,0.9385,-0.2257
+2022-12-16,PASS,OK,480,5.91,8.4,0.9284,-0.2964
+2022-12-17,PASS,dry day totals close: diff 0.070 <= 0.2,480,0.07,0.0,,
+2022-12-18,PASS,dry day totals close: diff 0.110 <= 0.2,480,0.11,0.0,,
+2022-12-19,PASS,dry day totals close: diff 0.070 <= 0.2,480,0.07,0.0,,
+2022-12-20,PASS,dry day totals close: diff 0.080 <= 0.2,480,0.08,0.0,,
+2022-12-21,PASS,OK,480,3.38,3.1295,0.7541,0.08
+2022-12-22,PASS,OK,480,10.22,10.547,0.8108,-0.031
+2022-12-23,PASS,OK,480,21.59,21.5235,0.862,0.0031
+2022-12-24,PASS,OK,480,4.79,4.6,0.7588,0.0413
+2022-12-25,PASS,dry day totals close: diff 0.040 <= 0.2,480,0.04,0.0,,
+2022-12-26,PASS,OK,480,9.52,9.9,0.8776,-0.0384
+2022-12-27,PASS,dry day totals close: diff 0.180 <= 0.2,480,0.18,0.0,,
+2022-12-28,PASS,dry day totals close: diff 0.110 <= 0.2,480,0.11,0.0,,
+2022-12-29,PASS,OK,480,19.7,22.4295,0.9509,-0.1217
+2022-12-30,PASS,OK,480,11.97,13.1705,0.9136,-0.0912
+2022-12-31,PASS,dry day totals close: diff 0.020 <= 0.2,480,0.18,0.2,,
+2023-01-01,PASS,dry day totals close: diff 0.030 <= 0.2,480,0.03,0.0,,
+2023-01-02,PASS,OK,480,3.9,3.3,0.906,0.1818
+2023-01-03,PASS,OK,480,3.25,2.6,0.6665,0.25
+2023-01-04,PASS,OK,480,1.17,1.053,0.944,0.1111
+2023-01-05,PASS,OK,480,6.21,6.147,0.9186,0.0102
+2023-01-06,PASS,dry day totals close: diff 0.090 <= 0.2,480,0.19,0.1,,
+2023-01-07,PASS,dry day totals close: diff 0.070 <= 0.2,480,0.07,0.0,,
+2023-01-08,PASS,OK,480,18.27,20.6,0.914,-0.1131
+2023-01-09,PASS,OK,480,11.82,9.3,0.7663,0.271
+2023-01-10,PASS,OK,281,1.09,0.7,0.6942,0.5571

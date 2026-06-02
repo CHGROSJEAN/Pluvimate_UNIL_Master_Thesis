@@ -1,0 +1,198 @@
+Date,Daily status,Daily reason,Daily valid points,Daily station rain mm,Daily MeteoSwiss rain mm,Daily correlation,Daily bias
+2025-09-11,PASS,dry day totals close: diff 0.010 <= 0.2,303,0.01,0.0,,
+2025-10-21,FAIL,dry day totals differ: diff 0.284 > 0.2,205,0.0,0.2842,,
+2025-10-22,FAIL,corr 0.361 < 0.4; bias -0.826 outside +/-0.3 and total diff 4.603 > 0.5,300,0.97,5.5725,0.3607,-0.8259
+2025-10-23,FAIL,bias -0.390 outside +/-0.3 and total diff 2.567 > 0.5,210,4.02,6.5868,0.8382,-0.3897
+2025-10-24,FAIL,corr 0.287 < 0.4; bias -0.903 outside +/-0.3 and total diff 2.416 > 0.5,346,0.26,2.6763,0.2871,-0.9029
+2025-10-25,FAIL,corr N/A < 0.4; bias -1.000 outside +/-0.3 and total diff 20.846 > 0.5,423,0.0,20.8463,,-1.0
+2025-10-26,FAIL,corr N/A < 0.4; bias -1.000 outside +/-0.3 and total diff 0.701 > 0.5,304,0.0,0.7005,,-1.0
+2025-10-27,FAIL,corr N/A < 0.4; bias -1.000 outside +/-0.3 and total diff 3.827 > 0.5,381,0.0,3.827,,-1.0
+2025-10-28,PASS,dry day totals close: diff 0.000 <= 0.2,304,0.0,0.0,,
+2025-10-29,FAIL,bias -0.954 outside +/-0.3 and total diff 6.902 > 0.5,268,0.33,7.2323,0.4474,-0.9544
+2025-10-30,FAIL,corr 0.272 < 0.4; bias -0.970 outside +/-0.3 and total diff 4.168 > 0.5,272,0.13,4.2982,0.2723,-0.9698
+2025-10-31,PASS,dry day totals close: diff 0.000 <= 0.2,277,0.0,0.0,,
+2025-11-01,FAIL,bias -0.929 outside +/-0.3 and total diff 4.587 > 0.5,316,0.35,4.9367,0.4025,-0.9291
+2025-11-02,FAIL,corr 0.230 < 0.4; bias -0.951 outside +/-0.3 and total diff 20.515 > 0.5,302,1.05,21.5652,0.2304,-0.9513
+2025-11-03,PASS,dry day totals close: diff 0.000 <= 0.2,311,0.0,0.0,,
+2025-11-04,PASS,dry day totals close: diff 0.000 <= 0.2,293,0.0,0.0,,
+2025-11-05,PASS,dry day totals close: diff 0.000 <= 0.2,288,0.0,0.0,,
+2025-11-06,PASS,dry day totals close: diff 0.000 <= 0.2,231,0.0,0.0,,
+2025-11-07,PASS,dry day totals close: diff 0.000 <= 0.2,240,0.0,0.0,,
+2025-11-08,PASS,dry day totals close: diff 0.000 <= 0.2,315,0.0,0.0,,
+2025-11-09,PASS,dry day totals close: diff 0.000 <= 0.2,325,0.0,0.0,,
+2025-11-10,PASS,dry day totals close: diff 0.000 <= 0.2,307,0.0,0.0,,
+2025-11-11,PASS,dry day totals close: diff 0.000 <= 0.2,282,0.0,0.0,,
+2025-11-12,PASS,dry day totals close: diff 0.000 <= 0.2,336,0.0,0.0,,
+2025-11-13,PASS,dry day totals close: diff 0.000 <= 0.2,270,0.0,0.0,,
+2025-11-14,PASS,dry day totals close: diff 0.000 <= 0.2,270,0.0,0.0,,
+2025-11-15,FAIL,bias -0.596 outside +/-0.3 and total diff 1.400 > 0.5,335,0.95,2.3497,0.8447,-0.5957
+2025-11-16,FAIL,bias -0.875 outside +/-0.3 and total diff 3.934 > 0.5,311,0.56,4.494,0.5834,-0.8754
+2025-11-17,FAIL,corr 0.148 < 0.4; bias -0.958 outside +/-0.3 and total diff 3.909 > 0.5,369,0.17,4.0788,0.1485,-0.9583
+2025-11-18,PASS,dry day totals close: diff 0.010 <= 0.2,367,0.01,0.0,,
+2025-11-19,PASS,dry day totals close: diff 0.154 <= 0.2,346,0.27,0.4245,,
+2025-11-20,FAIL,corr 0.014 < 0.4; bias -0.887 outside +/-0.3 and total diff 1.724 > 0.5,343,0.22,1.9443,0.0144,-0.8869
+2025-11-21,PASS,dry day totals close: diff 0.080 <= 0.2,298,0.19,0.27,,
+2025-11-22,PASS,dry day totals close: diff 0.000 <= 0.2,328,0.0,0.0,,
+2025-11-23,FAIL,corr 0.301 < 0.4; bias -0.676 outside +/-0.3 and total diff 1.547 > 0.5,220,0.74,2.2872,0.3012,-0.6765
+2025-11-24,FAIL,corr 0.176 < 0.4; bias -0.928 outside +/-0.3 and total diff 21.889 > 0.5,278,1.7,23.5888,0.1763,-0.9279
+2025-11-25,FAIL,corr 0.238 < 0.4; bias -0.929 outside +/-0.3 and total diff 3.421 > 0.5,348,0.26,3.681,0.2378,-0.9294
+2025-11-26,FAIL,corr -0.027 < 0.4; bias -0.973 outside +/-0.3 and total diff 1.440 > 0.5,364,0.04,1.4798,-0.0269,-0.973
+2025-11-27,PASS,dry day totals close: diff 0.000 <= 0.2,265,0.0,0.0,,
+2025-11-28,PASS,dry day totals close: diff 0.000 <= 0.2,314,0.0,0.0,,
+2025-11-29,PASS,dry day totals close: diff 0.000 <= 0.2,370,0.0,0.0,,
+2025-11-30,FAIL,corr 0.278 < 0.4; bias -0.835 outside +/-0.3 and total diff 2.780 > 0.5,327,0.55,3.3298,0.2775,-0.8348
+2025-12-01,PASS,dry day totals close: diff 0.010 <= 0.2,324,0.01,0.0,,
+2025-12-02,PASS,dry day totals close: diff 0.000 <= 0.2,317,0.0,0.0,,
+2025-12-03,FAIL,corr 0.149 < 0.4; bias -0.744 outside +/-0.3 and total diff 0.524 > 0.5,385,0.18,0.7042,0.1489,-0.7444
+2025-12-04,FAIL,dry day totals differ: diff 0.400 > 0.2,390,0.0,0.4003,,
+2025-12-05,FAIL,corr -0.019 < 0.4; bias -0.975 outside +/-0.3 and total diff 1.177 > 0.5,362,0.03,1.207,-0.0192,-0.9751
+2025-12-06,FAIL,corr 0.250 < 0.4,332,0.15,0.5277,0.2501,-0.7157
+2025-12-07,FAIL,bias -0.941 outside +/-0.3 and total diff 4.817 > 0.5,330,0.3,5.1167,0.469,-0.9414
+2025-12-08,FAIL,dry day totals differ: diff 0.489 > 0.2,339,0.0,0.489,,
+2025-12-09,PASS,dry day totals close: diff 0.000 <= 0.2,300,0.0,0.0,,
+2025-12-10,PASS,dry day totals close: diff 0.000 <= 0.2,264,0.0,0.0,,
+2025-12-11,PASS,dry day totals close: diff 0.000 <= 0.2,268,0.0,0.0,,
+2025-12-12,PASS,dry day totals close: diff 0.000 <= 0.2,391,0.0,0.0,,
+2025-12-13,PASS,dry day totals close: diff 0.000 <= 0.2,331,0.0,0.0,,
+2025-12-14,PASS,dry day totals close: diff 0.000 <= 0.2,316,0.0,0.0,,
+2025-12-15,PASS,dry day totals close: diff 0.000 <= 0.2,368,0.0,0.0,,
+2025-12-16,PASS,dry day totals close: diff 0.000 <= 0.2,407,0.0,0.0,,
+2025-12-17,PASS,dry day totals close: diff 0.000 <= 0.2,394,0.0,0.0,,
+2025-12-18,PASS,dry day totals close: diff 0.000 <= 0.2,434,0.0,0.0,,
+2025-12-19,PASS,dry day totals close: diff 0.199 <= 0.2,399,0.06,0.2588,,
+2025-12-20,PASS,dry day totals close: diff 0.099 <= 0.2,404,0.0,0.099,,
+2025-12-21,PASS,dry day totals close: diff 0.010 <= 0.2,401,0.01,0.0,,
+2025-12-22,PASS,dry day totals close: diff 0.000 <= 0.2,395,0.0,0.0,,
+2025-12-23,PASS,dry day totals close: diff 0.000 <= 0.2,388,0.0,0.0,,
+2025-12-24,PASS,dry day totals close: diff 0.000 <= 0.2,420,0.0,0.0,,
+2025-12-25,PASS,dry day totals close: diff 0.000 <= 0.2,406,0.0,0.0,,
+2025-12-26,PASS,dry day totals close: diff 0.000 <= 0.2,425,0.0,0.0,,
+2025-12-27,PASS,dry day totals close: diff 0.000 <= 0.2,409,0.0,0.0,,
+2025-12-28,PASS,dry day totals close: diff 0.000 <= 0.2,411,0.0,0.0,,
+2025-12-29,PASS,dry day totals close: diff 0.000 <= 0.2,407,0.0,0.0,,
+2025-12-30,PASS,dry day totals close: diff 0.000 <= 0.2,422,0.0,0.0,,
+2025-12-31,PASS,dry day totals close: diff 0.010 <= 0.2,423,0.01,0.0,,
+2026-01-01,PASS,dry day totals close: diff 0.000 <= 0.2,417,0.0,0.0,,
+2026-01-02,PASS,dry day totals close: diff 0.000 <= 0.2,410,0.0,0.0,,
+2026-01-03,PASS,dry day totals close: diff 0.000 <= 0.2,419,0.0,0.0,,
+2026-01-04,PASS,dry day totals close: diff 0.000 <= 0.2,427,0.0,0.0,,
+2026-01-05,PASS,dry day totals close: diff 0.000 <= 0.2,417,0.0,0.0,,
+2026-01-06,PASS,dry day totals close: diff 0.000 <= 0.2,419,0.0,0.0,,
+2026-01-07,PASS,dry day totals close: diff 0.000 <= 0.2,433,0.0,0.0,,
+2026-01-08,FAIL,bias -0.571 outside +/-0.3 and total diff 2.238 > 0.5,309,1.68,3.9178,0.5673,-0.5712
+2026-01-09,FAIL,bias -0.435 outside +/-0.3 and total diff 0.963 > 0.5,347,1.25,2.2125,0.4985,-0.435
+2026-01-10,FAIL,corr -0.001 < 0.4; bias -0.640 outside +/-0.3 and total diff 1.619 > 0.5,352,0.91,2.529,-0.0015,-0.6402
+2026-01-11,PASS,dry day totals close: diff 0.131 <= 0.2,416,0.02,0.1512,,
+2026-01-12,PASS,dry day totals close: diff 0.000 <= 0.2,423,0.0,0.0,,
+2026-01-13,PASS,dry day totals close: diff 0.000 <= 0.2,426,0.0,0.0,,
+2026-01-14,PASS,dry day totals close: diff 0.000 <= 0.2,418,0.0,0.0,,
+2026-01-15,PASS,OK,375,0.52,0.9957,0.5112,-0.4777
+2026-01-16,PASS,dry day totals close: diff 0.000 <= 0.2,424,0.0,0.0,,
+2026-01-17,PASS,dry day totals close: diff 0.000 <= 0.2,427,0.0,0.0,,
+2026-01-18,PASS,dry day totals close: diff 0.000 <= 0.2,419,0.0,0.0,,
+2026-01-19,PASS,dry day totals close: diff 0.000 <= 0.2,436,0.0,0.0,,
+2026-01-20,PASS,dry day totals close: diff 0.000 <= 0.2,442,0.0,0.0,,
+2026-01-21,PASS,dry day totals close: diff 0.000 <= 0.2,432,0.0,0.0,,
+2026-01-22,PASS,dry day totals close: diff 0.000 <= 0.2,438,0.0,0.0,,
+2026-01-23,FAIL,bias -0.540 outside +/-0.3 and total diff 0.669 > 0.5,378,0.57,1.2393,0.6636,-0.5401
+2026-01-24,PASS,dry day totals close: diff 0.080 <= 0.2,413,0.08,0.0,,
+2026-01-25,FAIL,bias -0.548 outside +/-0.3 and total diff 0.533 > 0.5,388,0.44,0.9732,0.5631,-0.5479
+2026-01-26,FAIL,dry day totals differ: diff 0.277 > 0.2,350,0.2,0.4773,,
+2026-01-27,FAIL,bias -0.578 outside +/-0.3 and total diff 1.851 > 0.5,325,1.35,3.2012,0.6057,-0.5783
+2026-01-28,FAIL,bias -0.591 outside +/-0.3 and total diff 2.481 > 0.5,206,1.72,4.201,0.475,-0.5906
+2026-01-29,FAIL,dry day totals differ: diff 0.210 > 0.2,268,0.45,0.24,,
+2026-01-30,FAIL,bias -0.584 outside +/-0.3 and total diff 0.813 > 0.5,343,0.58,1.3935,0.6264,-0.5838
+2026-01-31,PASS,dry day totals close: diff 0.000 <= 0.2,379,0.0,0.0,,
+2026-02-01,PASS,dry day totals close: diff 0.000 <= 0.2,362,0.0,0.0,,
+2026-02-02,PASS,dry day totals close: diff 0.081 <= 0.2,381,0.16,0.0795,,
+2026-02-03,FAIL,bias -0.538 outside +/-0.3 and total diff 0.593 > 0.5,271,0.51,1.1028,0.6077,-0.5376
+2026-02-04,PASS,dry day totals close: diff 0.000 <= 0.2,273,0.0,0.0,,
+2026-02-05,PASS,dry day totals close: diff 0.061 <= 0.2,399,0.1,0.1605,,
+2026-02-06,FAIL,bias -0.358 outside +/-0.3 and total diff 0.875 > 0.5,215,1.57,2.4452,0.5657,-0.3579
+2026-02-07,PASS,dry day totals close: diff 0.070 <= 0.2,409,0.07,0.0,,
+2026-02-08,PASS,dry day totals close: diff 0.000 <= 0.2,409,0.0,0.0,,
+2026-02-09,PASS,dry day totals close: diff 0.000 <= 0.2,433,0.0,0.0,,
+2026-02-10,FAIL,bias -0.581 outside +/-0.3 and total diff 3.048 > 0.5,260,2.2,5.2482,0.636,-0.5808
+2026-02-11,FAIL,bias -0.615 outside +/-0.3 and total diff 5.491 > 0.5,211,3.44,8.9312,0.4179,-0.6148
+2026-02-12,FAIL,bias -0.354 outside +/-0.3 and total diff 1.233 > 0.5,225,2.25,3.4835,0.623,-0.3541
+2026-02-13,PASS,dry day totals close: diff 0.087 <= 0.2,409,0.0,0.0868,,
+2026-02-14,PASS,dry day totals close: diff 0.030 <= 0.2,390,0.24,0.27,,
+2026-02-15,FAIL,bias -0.329 outside +/-0.3 and total diff 0.677 > 0.5,350,1.38,2.0572,0.4104,-0.3292
+2026-02-16,FAIL,bias -0.617 outside +/-0.3 and total diff 1.855 > 0.5,285,1.15,3.0045,0.5637,-0.6172
+2026-02-17,PASS,OK,339,0.48,0.5008,0.492,-0.0416
+2026-02-18,PASS,OK,342,0.54,0.8647,0.696,-0.3755
+2026-02-19,FAIL,bias -0.491 outside +/-0.3 and total diff 1.716 > 0.5,234,1.78,3.4962,0.6178,-0.4909
+2026-02-20,FAIL,corr 0.288 < 0.4,319,0.63,0.3903,0.2877,0.614
+2026-02-21,FAIL,corr 0.364 < 0.4,371,0.29,0.7152,0.3642,-0.5945
+2026-02-22,PASS,dry day totals close: diff 0.000 <= 0.2,399,0.0,0.0,,
+2026-02-23,PASS,dry day totals close: diff 0.102 <= 0.2,416,0.01,0.1123,,
+2026-02-24,PASS,dry day totals close: diff 0.000 <= 0.2,416,0.0,0.0,,
+2026-02-25,PASS,dry day totals close: diff 0.000 <= 0.2,404,0.0,0.0,,
+2026-02-26,PASS,dry day totals close: diff 0.000 <= 0.2,402,0.0,0.0,,
+2026-02-27,PASS,dry day totals close: diff 0.000 <= 0.2,422,0.0,0.0,,
+2026-02-28,PASS,dry day totals close: diff 0.092 <= 0.2,384,0.17,0.2618,,
+2026-03-01,PASS,dry day totals close: diff 0.030 <= 0.2,411,0.03,0.0,,
+2026-03-02,PASS,dry day totals close: diff 0.000 <= 0.2,404,0.0,0.0,,
+2026-03-03,PASS,dry day totals close: diff 0.000 <= 0.2,413,0.0,0.0,,
+2026-03-04,PASS,dry day totals close: diff 0.000 <= 0.2,411,0.0,0.0,,
+2026-03-05,PASS,dry day totals close: diff 0.000 <= 0.2,404,0.0,0.0,,
+2026-03-06,PASS,dry day totals close: diff 0.000 <= 0.2,409,0.0,0.0,,
+2026-03-07,PASS,dry day totals close: diff 0.000 <= 0.2,419,0.0,0.0,,
+2026-03-08,PASS,dry day totals close: diff 0.000 <= 0.2,399,0.0,0.0,,
+2026-03-09,PASS,dry day totals close: diff 0.000 <= 0.2,405,0.0,0.0,,
+2026-03-10,PASS,dry day totals close: diff 0.049 <= 0.2,382,0.09,0.1393,,
+2026-03-11,PASS,OK,388,4.87,5.4522,0.754,-0.1068
+2026-03-12,PASS,OK,400,0.93,0.8103,0.7035,0.1477
+2026-03-13,PASS,dry day totals close: diff 0.000 <= 0.2,403,0.0,0.0,,
+2026-03-14,PASS,OK,411,9.37,12.7747,0.5929,-0.2665
+2026-03-15,PASS,dry day totals close: diff 0.000 <= 0.2,396,0.0,0.0,,
+2026-03-16,PASS,dry day totals close: diff 0.000 <= 0.2,405,0.0,0.0,,
+2026-03-17,PASS,dry day totals close: diff 0.000 <= 0.2,416,0.0,0.0,,
+2026-03-18,PASS,dry day totals close: diff 0.000 <= 0.2,394,0.0,0.0,,
+2026-03-19,PASS,dry day totals close: diff 0.000 <= 0.2,415,0.0,0.0,,
+2026-03-20,PASS,dry day totals close: diff 0.000 <= 0.2,408,0.0,0.0,,
+2026-03-21,PASS,dry day totals close: diff 0.000 <= 0.2,395,0.0,0.0,,
+2026-03-22,FAIL,corr 0.322 < 0.4; bias 1.671 outside +/-0.3 and total diff 1.001 > 0.5,428,1.6,0.599,0.3219,1.6711
+2026-03-23,PASS,dry day totals close: diff 0.000 <= 0.2,411,0.0,0.0,,
+2026-03-24,PASS,dry day totals close: diff 0.000 <= 0.2,400,0.0,0.0,,
+2026-03-25,PASS,OK,438,0.65,1.06,0.746,-0.3868
+2026-03-26,FAIL,corr 0.362 < 0.4,410,0.63,0.721,0.3622,-0.1262
+2026-03-27,PASS,dry day totals close: diff 0.000 <= 0.2,394,0.0,0.0,,
+2026-03-28,PASS,OK,399,0.63,0.95,0.5802,-0.3368
+2026-03-29,FAIL,dry day totals differ: diff 0.427 > 0.2,348,0.03,0.4573,,
+2026-03-30,PASS,OK,396,4.64,5.6763,0.8302,-0.1826
+2026-03-31,FAIL,dry day totals differ: diff 0.280 > 0.2,384,0.42,0.1398,,
+2026-04-01,PASS,dry day totals close: diff 0.000 <= 0.2,347,0.0,0.0,,
+2026-04-02,PASS,dry day totals close: diff 0.000 <= 0.2,377,0.0,0.0,,
+2026-04-03,PASS,dry day totals close: diff 0.000 <= 0.2,390,0.0,0.0,,
+2026-04-04,PASS,dry day totals close: diff 0.010 <= 0.2,395,0.01,0.0,,
+2026-04-05,PASS,dry day totals close: diff 0.000 <= 0.2,385,0.0,0.0,,
+2026-04-06,PASS,dry day totals close: diff 0.000 <= 0.2,401,0.0,0.0,,
+2026-04-07,PASS,dry day totals close: diff 0.000 <= 0.2,391,0.0,0.0,,
+2026-04-08,PASS,dry day totals close: diff 0.000 <= 0.2,394,0.0,0.0,,
+2026-04-09,PASS,dry day totals close: diff 0.000 <= 0.2,396,0.0,0.0,,
+2026-04-10,PASS,dry day totals close: diff 0.000 <= 0.2,381,0.0,0.0,,
+2026-04-11,PASS,dry day totals close: diff 0.000 <= 0.2,396,0.0,0.0,,
+2026-04-12,PASS,OK,390,5.93,8.1468,0.747,-0.2721
+2026-04-13,PASS,OK,417,3.52,4.7588,0.496,-0.2603
+2026-04-14,PASS,dry day totals close: diff 0.080 <= 0.2,378,0.08,0.0,,
+2026-04-15,PASS,dry day totals close: diff 0.000 <= 0.2,361,0.0,0.0,,
+2026-04-16,PASS,dry day totals close: diff 0.000 <= 0.2,386,0.0,0.0,,
+2026-04-17,PASS,dry day totals close: diff 0.000 <= 0.2,410,0.0,0.0,,
+2026-04-18,PASS,dry day totals close: diff 0.000 <= 0.2,372,0.0,0.0,,
+2026-04-19,PASS,dry day totals close: diff 0.000 <= 0.2,361,0.0,0.0,,
+2026-04-20,PASS,dry day totals close: diff 0.000 <= 0.2,401,0.0,0.0,,
+2026-04-21,PASS,dry day totals close: diff 0.000 <= 0.2,371,0.0,0.0,,
+2026-04-22,PASS,dry day totals close: diff 0.000 <= 0.2,406,0.0,0.0,,
+2026-04-23,PASS,dry day totals close: diff 0.000 <= 0.2,391,0.0,0.0,,
+2026-04-24,PASS,dry day totals close: diff 0.000 <= 0.2,390,0.0,0.0,,
+2026-04-25,PASS,dry day totals close: diff 0.000 <= 0.2,358,0.0,0.0,,
+2026-04-26,PASS,dry day totals close: diff 0.000 <= 0.2,357,0.0,0.0,,
+2026-04-27,PASS,dry day totals close: diff 0.000 <= 0.2,398,0.0,0.0,,
+2026-04-28,FAIL,bias -0.366 outside +/-0.3 and total diff 2.139 > 0.5,400,3.71,5.8493,0.859,-0.3657
+2026-04-29,PASS,dry day totals close: diff 0.010 <= 0.2,382,0.01,0.0,,
+2026-04-30,PASS,dry day totals close: diff 0.000 <= 0.2,392,0.0,0.0,,
+2026-05-01,PASS,dry day totals close: diff 0.000 <= 0.2,390,0.0,0.0,,
+2026-05-02,PASS,dry day totals close: diff 0.000 <= 0.2,407,0.0,0.0,,
+2026-05-03,PASS,dry day totals close: diff 0.000 <= 0.2,411,0.0,0.0,,
+2026-05-04,PASS,OK,444,6.31,7.7972,0.9019,-0.1907

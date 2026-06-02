@@ -1,0 +1,62 @@
+Date,Daily status,Daily reason,Daily valid points,Daily station rain mm,Daily MeteoSwiss rain mm,Daily correlation,Daily bias
+2026-03-05,PASS,dry day totals close: diff 0.000 <= 0.2,200,0.0,0.0,,
+2026-03-06,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-03-07,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-03-08,PASS,dry day totals close: diff 0.000 <= 0.2,479,0.0,0.0,,
+2026-03-09,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-03-10,PASS,dry day totals close: diff 0.060 <= 0.2,480,0.26,0.2,,
+2026-03-11,PASS,OK,480,7.58,6.9003,0.8629,0.0985
+2026-03-12,PASS,OK,480,1.28,0.8,0.8621,0.6
+2026-03-13,PASS,dry day totals close: diff 0.000 <= 0.2,479,0.0,0.0,,
+2026-03-14,PASS,OK,480,14.78,14.0002,0.8227,0.0557
+2026-03-15,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-03-16,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-03-17,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-03-18,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-03-19,PASS,dry day totals close: diff 0.000 <= 0.2,478,0.0,0.0,,
+2026-03-20,PASS,dry day totals close: diff 0.000 <= 0.2,479,0.0,0.0,,
+2026-03-21,PASS,dry day totals close: diff 0.000 <= 0.2,479,0.0,0.0,,
+2026-03-22,FAIL,corr 0.365 < 0.4; bias 2.350 outside +/-0.3 and total diff 1.410 > 0.5,481,2.01,0.6,0.3654,2.35
+2026-03-23,PASS,dry day totals close: diff 0.000 <= 0.2,475,0.0,0.0,,
+2026-03-24,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-03-25,PASS,OK,476,1.01,1.1,0.7644,-0.0818
+2026-03-26,FAIL,corr 0.015 < 0.4,478,0.89,0.8,0.0149,0.1125
+2026-03-27,PASS,dry day totals close: diff 0.010 <= 0.2,474,0.01,0.0,,
+2026-03-28,PASS,OK,479,1.08,1.1,0.7058,-0.0182
+2026-03-29,FAIL,corr 0.067 < 0.4,480,0.11,0.6,0.0671,-0.8167
+2026-03-30,PASS,OK,480,6.18,6.0,0.8864,0.03
+2026-03-31,PASS,OK,477,0.64,0.1998,0.8174,2.2027
+2026-04-01,PASS,dry day totals close: diff 0.000 <= 0.2,479,0.0,0.0,,
+2026-04-02,PASS,dry day totals close: diff 0.000 <= 0.2,478,0.0,0.0,,
+2026-04-03,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-04-04,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-04-05,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-04-06,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-04-07,PASS,dry day totals close: diff 0.000 <= 0.2,481,0.0,0.0,,
+2026-04-08,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-04-09,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-04-10,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-04-11,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-04-12,PASS,OK,480,9.26,9.0007,0.8185,0.0288
+2026-04-13,PASS,OK,479,6.38,5.4002,0.6646,0.1814
+2026-04-14,PASS,dry day totals close: diff 0.050 <= 0.2,479,0.05,0.0,,
+2026-04-15,PASS,dry day totals close: diff 0.000 <= 0.2,477,0.0,0.0,,
+2026-04-16,PASS,dry day totals close: diff 0.000 <= 0.2,478,0.0,0.0,,
+2026-04-17,PASS,dry day totals close: diff 0.000 <= 0.2,465,0.0,0.0,,
+2026-04-18,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-04-19,PASS,dry day totals close: diff 0.000 <= 0.2,478,0.0,0.0,,
+2026-04-20,PASS,dry day totals close: diff 0.000 <= 0.2,479,0.0,0.0,,
+2026-04-21,PASS,dry day totals close: diff 0.000 <= 0.2,478,0.0,0.0,,
+2026-04-22,PASS,dry day totals close: diff 0.000 <= 0.2,473,0.0,0.0,,
+2026-04-23,PASS,dry day totals close: diff 0.000 <= 0.2,479,0.0,0.0,,
+2026-04-24,PASS,dry day totals close: diff 0.000 <= 0.2,477,0.0,0.0,,
+2026-04-25,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-04-26,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2026-04-27,PASS,dry day totals close: diff 0.000 <= 0.2,475,0.0,0.0,,
+2026-04-28,PASS,OK,477,6.08,6.0,0.89,0.0133
+2026-04-29,PASS,dry day totals close: diff 0.040 <= 0.2,479,0.04,0.0,,
+2026-04-30,PASS,dry day totals close: diff 0.000 <= 0.2,461,0.0,0.0,,
+2026-05-01,PASS,dry day totals close: diff 0.000 <= 0.2,477,0.0,0.0,,
+2026-05-02,PASS,dry day totals close: diff 0.000 <= 0.2,481,0.0,0.0,,
+2026-05-03,PASS,dry day totals close: diff 0.000 <= 0.2,479,0.0,0.0,,
+2026-05-04,PASS,OK,404,9.08,7.2322,0.8837,0.2555

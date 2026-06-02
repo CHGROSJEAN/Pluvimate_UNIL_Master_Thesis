@@ -1,0 +1,4 @@
+Date,Daily status,Daily reason,Daily valid points,Daily station rain mm,Daily MeteoSwiss rain mm,Daily correlation,Daily bias
+2024-11-18,PASS,dry day totals close: diff 0.000 <= 0.2,288,0.0,0.0,,
+2024-11-19,PASS,OK,480,17.37,23.4592,0.8973,-0.2596
+2024-11-20,PASS,OK,182,3.63,4.8408,0.9326,-0.2501

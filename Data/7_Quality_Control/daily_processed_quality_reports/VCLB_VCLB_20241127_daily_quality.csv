@@ -1,0 +1,9 @@
+Date,Daily status,Daily reason,Daily valid points,Daily station rain mm,Daily MeteoSwiss rain mm,Daily correlation,Daily bias
+2024-11-20,FAIL,corr N/A < 0.4; bias -1.000 outside +/-0.3 and total diff 1.900 > 0.5,136,0.0,1.9,,-1.0
+2024-11-21,PASS,OK,480,15.67,22.3,0.5253,-0.2973
+2024-11-22,FAIL,corr N/A < 0.4; bias -1.000 outside +/-0.3 and total diff 0.900 > 0.5,480,0.0,0.9,,-1.0
+2024-11-23,PASS,dry day totals close: diff 0.070 <= 0.2,480,0.07,0.0,,
+2024-11-24,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-25,FAIL,bias -0.784 outside +/-0.3 and total diff 3.442 > 0.5,480,0.95,4.392,0.7781,-0.7837
+2024-11-26,FAIL,corr 0.214 < 0.4; bias -0.935 outside +/-0.3 and total diff 12.168 > 0.5,480,0.84,13.008,0.2137,-0.9354
+2024-11-27,PASS,dry day totals close: diff 0.000 <= 0.2,263,0.0,0.0,,

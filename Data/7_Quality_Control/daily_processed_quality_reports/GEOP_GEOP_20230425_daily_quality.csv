@@ -1,0 +1,30 @@
+Date,Daily status,Daily reason,Daily valid points,Daily station rain mm,Daily MeteoSwiss rain mm,Daily correlation,Daily bias
+2023-03-28,PASS,dry day totals close: diff 0.000 <= 0.2,184,0.0,0.0,,
+2023-03-29,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-03-30,FAIL,corr N/A < 0.4; bias -1.000 outside +/-0.3 and total diff 1.000 > 0.5,480,0.0,1.0,,-1.0
+2023-03-31,PASS,OK,480,7.87,7.8,0.5431,0.009
+2023-04-01,FAIL,bias 0.441 outside +/-0.3 and total diff 1.500 > 0.5,480,4.9,3.4,0.626,0.4412
+2023-04-02,PASS,OK,480,1.99,1.6,0.5918,0.2437
+2023-04-03,PASS,dry day totals close: diff 0.020 <= 0.2,480,0.02,0.0,,
+2023-04-04,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-04-05,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-04-06,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-04-07,PASS,OK,480,3.41,3.3,0.796,0.0333
+2023-04-08,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-04-09,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-04-10,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-04-11,PASS,OK,480,2.12,2.7,0.6712,-0.2148
+2023-04-12,PASS,OK,480,13.97,14.8,0.8196,-0.0561
+2023-04-13,PASS,dry day totals close: diff 0.200 <= 0.2,480,0.2,0.0,,
+2023-04-14,PASS,dry day totals close: diff 0.200 <= 0.2,480,0.0,0.2,,
+2023-04-15,FAIL,bias -0.467 outside +/-0.3 and total diff 6.820 > 0.5,480,7.78,14.6,0.7747,-0.4671
+2023-04-16,PASS,dry day totals close: diff 0.010 <= 0.2,480,0.01,0.0,,
+2023-04-17,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-04-18,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-04-19,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-04-20,PASS,OK,480,7.65,6.5,0.7718,0.1769
+2023-04-21,PASS,OK,480,0.61,0.6,0.412,0.0167
+2023-04-22,PASS,OK,480,0.73,1.0402,0.4721,-0.2982
+2023-04-23,PASS,OK,480,10.56,8.8205,0.7736,0.1972
+2023-04-24,PASS,OK,480,5.13,4.7393,0.839,0.0824
+2023-04-25,PASS,OK,224,4.76,5.7,0.8866,-0.1649

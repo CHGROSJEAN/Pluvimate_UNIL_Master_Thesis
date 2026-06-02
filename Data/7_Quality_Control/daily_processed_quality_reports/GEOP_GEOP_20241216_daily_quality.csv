@@ -1,0 +1,37 @@
+Date,Daily status,Daily reason,Daily valid points,Daily station rain mm,Daily MeteoSwiss rain mm,Daily correlation,Daily bias
+2024-11-11,FAIL,corr 0.213 < 0.4,309,0.71,0.7,0.2133,0.0143
+2024-11-12,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-13,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-14,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-15,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-16,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-17,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-18,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-19,PASS,OK,480,22.21,23.607,0.8736,-0.0592
+2024-11-20,PASS,OK,480,4.89,6.593,0.9025,-0.2583
+2024-11-21,FAIL,corr 0.290 < 0.4,480,20.69,23.2,0.2898,-0.1082
+2024-11-22,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-23,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-24,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-25,PASS,OK,480,11.62,12.31,0.9478,-0.0561
+2024-11-26,PASS,OK,480,4.53,5.09,0.9594,-0.11
+2024-11-27,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-28,PASS,OK,480,1.27,1.7,0.5905,-0.2529
+2024-11-29,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-11-30,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-12-01,PASS,dry day totals close: diff 0.200 <= 0.2,480,0.0,0.2,,
+2024-12-02,PASS,OK,480,7.84,9.5,0.825,-0.1747
+2024-12-03,FAIL,bias -0.559 outside +/-0.3 and total diff 0.950 > 0.5,480,0.75,1.7,0.8508,-0.5588
+2024-12-04,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-12-05,PASS,dry day totals close: diff 0.110 <= 0.2,480,0.09,0.2,,
+2024-12-06,PASS,OK,480,10.58,11.0,0.9001,-0.0382
+2024-12-07,PASS,OK,480,9.18,10.9,0.8955,-0.1578
+2024-12-08,FAIL,bias -0.726 outside +/-0.3 and total diff 3.050 > 0.5,480,1.15,4.2,0.626,-0.7262
+2024-12-09,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-12-10,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-12-11,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-12-12,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-12-13,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2024-12-14,PASS,OK,480,2.47,2.9,0.4595,-0.1483
+2024-12-15,PASS,dry day totals close: diff 0.050 <= 0.2,480,0.05,0.1,,
+2024-12-16,PASS,dry day totals close: diff 0.010 <= 0.2,276,0.01,0.0,,

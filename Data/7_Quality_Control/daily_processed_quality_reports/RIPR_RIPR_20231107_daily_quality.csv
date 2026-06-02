@@ -1,0 +1,66 @@
+Date,Daily status,Daily reason,Daily valid points,Daily station rain mm,Daily MeteoSwiss rain mm,Daily correlation,Daily bias
+2023-09-04,PASS,dry day totals close: diff 0.010 <= 0.2,228,0.01,0.0,,
+2023-09-05,PASS,dry day totals close: diff 0.150 <= 0.2,480,0.15,0.0,,
+2023-09-06,PASS,dry day totals close: diff 0.080 <= 0.2,480,0.08,0.0,,
+2023-09-07,PASS,dry day totals close: diff 0.070 <= 0.2,480,0.07,0.0,,
+2023-09-08,PASS,dry day totals close: diff 0.110 <= 0.2,480,0.11,0.0,,
+2023-09-09,PASS,dry day totals close: diff 0.100 <= 0.2,480,0.1,0.0,,
+2023-09-10,PASS,dry day totals close: diff 0.080 <= 0.2,480,0.08,0.0,,
+2023-09-11,PASS,dry day totals close: diff 0.110 <= 0.2,480,0.11,0.0,,
+2023-09-12,PASS,dry day totals close: diff 0.140 <= 0.2,480,0.14,0.0,,
+2023-09-13,FAIL,bias -0.602 outside +/-0.3 and total diff 22.510 > 0.5,480,14.89,37.4,0.766,-0.6019
+2023-09-14,PASS,dry day totals close: diff 0.120 <= 0.2,480,0.12,0.0,,
+2023-09-15,PASS,dry day totals close: diff 0.140 <= 0.2,480,0.14,0.0,,
+2023-09-16,FAIL,dry day totals differ: diff 0.220 > 0.2,480,0.22,0.0,,
+2023-09-17,FAIL,dry day totals differ: diff 0.210 > 0.2,480,0.41,0.2,,
+2023-09-18,FAIL,bias -0.376 outside +/-0.3 and total diff 18.357 > 0.5,480,30.53,48.8873,0.9085,-0.3755
+2023-09-19,PASS,OK,480,2.88,3.1127,0.6267,-0.0747
+2023-09-20,FAIL,corr N/A < 0.4; bias N/A outside +/-0.3 and total diff 0.540 > 0.5,480,0.54,0.0,,
+2023-09-21,FAIL,bias -0.321 outside +/-0.3 and total diff 5.057 > 0.5,480,10.69,15.7468,0.8008,-0.3211
+2023-09-22,FAIL,bias -0.361 outside +/-0.3 and total diff 5.253 > 0.5,480,9.3,14.5532,0.8919,-0.361
+2023-09-23,PASS,dry day totals close: diff 0.110 <= 0.2,480,0.31,0.2,,
+2023-09-24,PASS,dry day totals close: diff 0.120 <= 0.2,480,0.12,0.0,,
+2023-09-25,PASS,dry day totals close: diff 0.100 <= 0.2,480,0.1,0.0,,
+2023-09-26,PASS,dry day totals close: diff 0.100 <= 0.2,480,0.1,0.0,,
+2023-09-27,PASS,dry day totals close: diff 0.040 <= 0.2,480,0.04,0.0,,
+2023-09-28,PASS,dry day totals close: diff 0.080 <= 0.2,480,0.08,0.0,,
+2023-09-29,PASS,dry day totals close: diff 0.080 <= 0.2,480,0.08,0.0,,
+2023-09-30,PASS,dry day totals close: diff 0.090 <= 0.2,480,0.09,0.0,,
+2023-10-01,PASS,dry day totals close: diff 0.080 <= 0.2,480,0.08,0.0,,
+2023-10-02,PASS,dry day totals close: diff 0.060 <= 0.2,480,0.06,0.0,,
+2023-10-03,PASS,dry day totals close: diff 0.070 <= 0.2,480,0.07,0.0,,
+2023-10-04,PASS,dry day totals close: diff 0.080 <= 0.2,480,0.08,0.0,,
+2023-10-05,PASS,dry day totals close: diff 0.120 <= 0.2,480,0.12,0.0,,
+2023-10-06,PASS,dry day totals close: diff 0.060 <= 0.2,480,0.06,0.0,,
+2023-10-07,PASS,dry day totals close: diff 0.030 <= 0.2,480,0.03,0.0,,
+2023-10-08,PASS,dry day totals close: diff 0.050 <= 0.2,480,0.05,0.0,,
+2023-10-09,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-10-10,PASS,dry day totals close: diff 0.030 <= 0.2,480,0.03,0.0,,
+2023-10-11,PASS,dry day totals close: diff 0.000 <= 0.2,480,0.0,0.0,,
+2023-10-12,PASS,dry day totals close: diff 0.050 <= 0.2,480,0.05,0.0,,
+2023-10-13,PASS,dry day totals close: diff 0.007 <= 0.2,480,0.04,0.0468,,
+2023-10-14,FAIL,bias 0.792 outside +/-0.3 and total diff 2.417 > 0.5,480,5.47,3.0532,0.7095,0.7916
+2023-10-15,PASS,dry day totals close: diff 0.020 <= 0.2,480,0.02,0.0,,
+2023-10-16,PASS,dry day totals close: diff 0.190 <= 0.2,480,0.19,0.0,,
+2023-10-17,PASS,dry day totals close: diff 0.030 <= 0.2,480,0.03,0.0,,
+2023-10-18,PASS,OK,480,1.24,0.9,0.6373,0.3778
+2023-10-19,PASS,OK,480,6.83,9.2,0.9008,-0.2576
+2023-10-20,FAIL,bias -0.373 outside +/-0.3 and total diff 8.290 > 0.5,480,13.91,22.2,0.9444,-0.3734
+2023-10-21,FAIL,bias -0.376 outside +/-0.3 and total diff 2.070 > 0.5,480,3.43,5.5,0.9058,-0.3764
+2023-10-22,PASS,dry day totals close: diff 0.040 <= 0.2,480,0.04,0.0,,
+2023-10-23,PASS,OK,480,0.65,1.1,0.7592,-0.4091
+2023-10-24,FAIL,bias -0.383 outside +/-0.3 and total diff 15.540 > 0.5,480,25.06,40.6,0.8627,-0.3828
+2023-10-25,FAIL,bias -0.391 outside +/-0.3 and total diff 9.504 > 0.5,480,14.79,24.2937,0.8376,-0.3912
+2023-10-26,FAIL,bias -0.316 outside +/-0.3 and total diff 9.653 > 0.5,480,20.9,30.5532,0.9106,-0.3159
+2023-10-27,FAIL,bias -0.429 outside +/-0.3 and total diff 11.833 > 0.5,480,15.72,27.5532,0.8621,-0.4295
+2023-10-28,PASS,dry day totals close: diff 0.060 <= 0.2,480,0.16,0.1,,
+2023-10-29,PASS,dry day totals close: diff 0.050 <= 0.2,480,0.05,0.0,,
+2023-10-30,FAIL,bias -0.356 outside +/-0.3 and total diff 7.450 > 0.5,480,13.45,20.9,0.9562,-0.3565
+2023-10-31,PASS,OK,480,4.3,5.8,0.7628,-0.2586
+2023-11-01,PASS,OK,480,0.94,1.3,0.77,-0.2769
+2023-11-02,FAIL,bias -0.382 outside +/-0.3 and total diff 11.730 > 0.5,480,18.97,30.7,0.8567,-0.3821
+2023-11-03,FAIL,bias -0.380 outside +/-0.3 and total diff 3.150 > 0.5,480,5.15,8.3,0.5895,-0.3795
+2023-11-04,FAIL,bias -0.366 outside +/-0.3 and total diff 9.160 > 0.5,480,15.84,25.0,0.9322,-0.3664
+2023-11-05,FAIL,bias -0.414 outside +/-0.3 and total diff 4.970 > 0.5,480,7.03,12.0,0.7502,-0.4142
+2023-11-06,PASS,OK,480,0.54,0.8,0.7482,-0.325
+2023-11-07,PASS,dry day totals close: diff 0.000 <= 0.2,173,0.0,0.0,,
